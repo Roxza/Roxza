@@ -12,10 +12,9 @@
 🍍️ You can contact me on discord. Roxza#0002 <br>
 </h3>
 
-### The Last Repositories I Shared
+### Last Repositories
 
 - [image-random](https://github.com/Roxza/image-random)
 - [covid19-earth](https://github.com/Roxza/covid19-earth)
 - [getweb](https://github.com/Roxza/getweb)
 - [BotsLand](https://github.com/Roxza/BotsLand)
-
