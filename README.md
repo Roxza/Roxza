@@ -5,11 +5,11 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxza&theme=dark&hide_border=true&layout=compact">
 
 <h3 align="left">
-- 📖️ I know javascript and php<br>
-- 👌️ I'm learning react. <br>
-- 💙️ I'm friendly, I have a lot of friends <br>
-- 🔥️ All I want is to share quality repos on github <br>
-- 🍍️ You can contact me on discord. Roxza#0002 <br>
+📖️ I know javascript and php<br>
+👌️ I'm learning react. <br>
+💙️ I'm friendly, I have a lot of friends <br>
+🔥️ All I want is to share quality repos on github <br>
+🍍️ You can contact me on discord. Roxza#0002 <br>
 </h3>
 
 ### The Last Repositories I Shared
