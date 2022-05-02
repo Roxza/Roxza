@@ -14,7 +14,7 @@
 <a href="https://roxza.me">
 <img src="https://img.shields.io/badge/Personal-D14836?&logoColor=white&color=yellow"/>
 </a>
-<p><b>You can call me <a style="color: green" href="https://roxza.me">Roxza<a/> for short, I am a backend developer and a dreamer, I like to learn new things and watch movies.</b></p>
+<p>I am a backend developer and a dreamer, I like to learn new things and watch movies.</b></p>
 <h3>
 📖️ I know javascript,vue and react<br>
 💙️ I'm friendly, I have a lot of friends <br>
