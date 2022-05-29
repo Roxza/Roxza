@@ -17,7 +17,7 @@
  <a href="https://roxza.me">
 <img src="https://komarev.com/ghpvc/?username=roxza"/>
 </a>
-<p>I am a backend developer and a dreamer, I like to learn new things and watch movies.</b></p>
+<h4>I am a backend developer and a dreamer, I like to learn new things and watch movies.</b></h4>
 <h3>
 👨‍💻 Portfolio: https://roxza.me <br/>
 📫 How to reach me: hello@roxza.me <br/>
