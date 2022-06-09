@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🌸 Roxza </h1>
 
-<img alt="os" src="https://svgshare.com/i/Zhy.svg" />
+<img alt="os" src="https://img.shields.io/badge/os-Mac OS-blue" />
 
 <a href="https://discord.com/users/350945523810959361">
 <img alt="askme" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
